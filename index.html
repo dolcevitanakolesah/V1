@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Italian classic cars worth finding — from preserved icons to forgotten projects.">
+  <title>Italian Finds — Classic Cars</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="wordmark" href="#" aria-label="Italian Finds home">ITALIAN FINDS<span>CLASSIC ITALIAN CARS</span></a>
+    <a class="contact-link" href="mailto:hello@italianfinds.example">CONTACT</a>
+  </header>
+
+  <main>
+    <section class="intro">
+      <p class="eyebrow">THE COLLECTION</p>
+      <h1>Cars worth finding</h1>
+      <p class="intro-copy">From preserved icons to forgotten projects, every car has a story; scouting is where it begins.</p>
+    </section>
+
+    <section class="car-grid" id="carGrid" aria-label="Car collection"></section>
+  </main>
+
+  <footer>
+    <span>ITALIAN FINDS</span>
+    <p>Different cars. Same story. Found.</p>
+  </footer>
+
+  <dialog class="gallery-dialog" id="galleryDialog" aria-label="Car photo gallery">
+    <button class="close-button" id="closeGallery" aria-label="Close gallery">×</button>
+    <div class="gallery-heading">
+      <p class="eyebrow" id="galleryYear"></p>
+      <h2 id="galleryTitle"></h2>
+      <p id="galleryDescription" class="gallery-description"></p>
+    </div>
+    <div class="gallery-grid" id="galleryGrid"></div>
+  </dialog>
+  <script src="script.js"></script>
+</body>
+</html>
