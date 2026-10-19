@@ -5,12 +5,7 @@ const cars = [
   { year: "1990", name: "Porsche 964", image: "assets/car-04.jpg", description: "A compact coupé with rally heritage, delicate proportions and a character all its own." },
   { year: "1969", name: "Maserati Ghibli", image: "assets/car-05.jpg", description: "A long, low grand tourer with dramatic lines and a distinctly Italian sense of occasion." },
   { year: "1987", name: "Ferrari Testarossa", image: "assets/car-06.jpg", description: "An unmistakable eighties icon, defined by its wide stance and signature side strakes." },
-  { year: "1971", name: "Alfa Romeo Spider", image: "assets/car-07.jpg", description: "A classic open-top Alfa made for winding roads, with timeless lines and a lively spirit." },
-  { year: "1965", name: "Lamborghini 350 GT", image: "assets/car-08.jpg", description: "An early Lamborghini grand tourer with understated elegance and a landmark place in the marque's story." },
-  { year: "1976", name: "Fiat 124 Spider", image: "assets/car-09.jpg", description: "A light, approachable roadster with elegant lines and an enduring connection to open-air motoring." },
-  { year: "1962", name: "Lancia Flaminia Coupé", image: "assets/car-10.jpg", description: "A refined Italian coupé with thoughtful detailing and a quietly formal presence." },
-  { year: "1973", name: "De Tomaso Pantera", image: "assets/car-11.jpg", description: "A muscular Italian-American sports car with purposeful proportions and a memorable profile." },
-  { year: "1984", name: "Ferrari 308 GTB", image: "assets/car-12.jpg", description: "A compact mid-engined Ferrari that captures the balance and style of its era." }
+  { year: "1971", name: "Alfa Romeo Spider", image: "assets/car-07.jpg", description: "A classic open-top Alfa made for winding roads, with timeless lines and a lively spirit." }
 ];
 
 const detailViews = [
