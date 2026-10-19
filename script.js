@@ -4,7 +4,7 @@ const cars = [
   { year: "1970", name: "Fiat 500L", image: "assets/car-03.jpg", description: "An open Italian classic with crisp Pininfarina lines and an evocative period feel." },
   { year: "1990", name: "Porsche 964", image: "assets/car-04.jpg", description: "A compact coupé with rally heritage, delicate proportions and a character all its own." },
   { year: "1962", name: "Autobianchi Bianchina Cabrio", image: "assets/car-05.jpg", description: "A long, low grand tourer with dramatic lines and a distinctly Italian sense of occasion." },
-  { year: "1962", name: "Autobianchi Bianchina Cabrio", image: "assets/car-05.jpg", description: "A long, low grand tourer with dramatic lines and a distinctly Italian sense of occasion." }
+  { year: "1971", name: "Lancia Fulvia HF", image: "assets/car-05.jpg", description: "A long, low grand tourer with dramatic lines and a distinctly Italian sense of occasion." }
 ];
 
 const detailViews = [
