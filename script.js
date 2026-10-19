@@ -2,7 +2,7 @@ const cars = [
   { year: "1970", name: "Alfa ROmeo GT Junior", image: "assets/car-01.jpg", description: "A beautifully proportioned grand tourer, admired for its elegant coachwork and restrained sporting character." },
   { year: "1991", name: "Ferrari Testarossa", image: "assets/car-02.jpg", description: "A distinctive V8-era Alfa Romeo with unmistakable details and a cockpit built around the driver." },
   { year: "1970", name: "Fiat 500L", image: "assets/car-03.jpg", description: "An open Italian classic with crisp Pininfarina lines and an evocative period feel." },
-  { year: "1974", name: "Lancia Fulvia Coupé", image: "assets/car-04.jpg", description: "A compact coupé with rally heritage, delicate proportions and a character all its own." },
+  { year: "1990", name: "Porsche 964", image: "assets/car-04.jpg", description: "A compact coupé with rally heritage, delicate proportions and a character all its own." },
   { year: "1969", name: "Maserati Ghibli", image: "assets/car-05.jpg", description: "A long, low grand tourer with dramatic lines and a distinctly Italian sense of occasion." },
   { year: "1987", name: "Ferrari Testarossa", image: "assets/car-06.jpg", description: "An unmistakable eighties icon, defined by its wide stance and signature side strakes." },
   { year: "1971", name: "Alfa Romeo Spider", image: "assets/car-07.jpg", description: "A classic open-top Alfa made for winding roads, with timeless lines and a lively spirit." },
