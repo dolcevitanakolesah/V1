@@ -1,5 +1,5 @@
 const cars = [
-  { year: "1970", name: "Ferrari 250 GT Lusso", image: "assets/car-01.jpg", description: "A beautifully proportioned grand tourer, admired for its elegant coachwork and restrained sporting character." },
+  { year: "1970", name: "Alfa ROmeo GT Junior", image: "assets/car-01.jpg", description: "A beautifully proportioned grand tourer, admired for its elegant coachwork and restrained sporting character." },
   { year: "1972", name: "Alfa Romeo Montreal", image: "assets/car-02.jpg", description: "A distinctive V8-era Alfa Romeo with unmistakable details and a cockpit built around the driver." },
   { year: "1967", name: "Fiat Dino Spider", image: "assets/car-03.jpg", description: "An open Italian classic with crisp Pininfarina lines and an evocative period feel." },
   { year: "1974", name: "Lancia Fulvia Coupé", image: "assets/car-04.jpg", description: "A compact coupé with rally heritage, delicate proportions and a character all its own." },
