@@ -1,5 +1,5 @@
 const cars = [
-  { year: "1970", name: "Alfa ROmeo GT Junior", image: "assets/car-01.jpg", description: "A beautifully proportioned grand tourer, admired for its elegant coachwork and restrained sporting character." },
+  { year: "1970", name: "Alfa Romeo GT Junior", image: "assets/car-01.jpg", description: "A beautifully proportioned grand tourer, admired for its elegant coachwork and restrained sporting character." },
   { year: "1991", name: "Ferrari Testarossa", image: "assets/car-02.jpg", description: "A distinctive V8-era Alfa Romeo with unmistakable details and a cockpit built around the driver." },
   { year: "1970", name: "Fiat 500L", image: "assets/car-03.jpg", description: "An open Italian classic with crisp Pininfarina lines and an evocative period feel." },
   { year: "1990", name: "Porsche 964", image: "assets/car-04.jpg", description: "A compact coupé with rally heritage, delicate proportions and a character all its own." },
